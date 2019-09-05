@@ -87,6 +87,7 @@
         }
       ]
     },
+    {
       "title": "News & Articles",
       "connectableKey": "newsarticles",
       "data": {
